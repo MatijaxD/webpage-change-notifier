@@ -1,2 +1,2 @@
 # webpage-change-notifier
-Checks a webpage's html and sends an email via gmail, if there was a change.
+Keeps checking a webpage's html and if there was a change, it sends an email via gmail.
